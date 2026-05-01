@@ -80,7 +80,7 @@ groups <- list(
     label = paste(sep = "|",
                   " ",
                   " ",
-                  "PTI-125"),
+                  "Treatment"),
     cols  = c(4, 1.5, 3), 
     just = "c"
   ),
